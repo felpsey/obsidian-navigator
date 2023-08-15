@@ -1,0 +1,10 @@
+{
+	"id": "navigator-plugin",
+	"name": "Navigator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is the most exclusive plugin for Obsidian. Use in a civilised fashion.",
+	"author": "Ethan Phelps",
+	"authorUrl": "https://felpsey.com",
+	"isDesktopOnly": false
+}
